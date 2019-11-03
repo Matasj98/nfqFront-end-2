@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39b1a33025e6617b8eb377ccc0988ec1",
+    "revision": "2b4fe73973147b89b1d567cd9c1acb1b",
     "url": "/Matasj98/nfqFront-end-2/index.html"
   },
   {
-    "revision": "c1c7683128fbbec4ba41",
+    "revision": "2b66ecb7bee65271b7a0",
     "url": "/Matasj98/nfqFront-end-2/static/css/main.66974005.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Matasj98/nfqFront-end-2/static/js/2.1279f7b7.chunk.js"
   },
   {
-    "revision": "c1c7683128fbbec4ba41",
-    "url": "/Matasj98/nfqFront-end-2/static/js/main.54861971.chunk.js"
+    "revision": "2b66ecb7bee65271b7a0",
+    "url": "/Matasj98/nfqFront-end-2/static/js/main.5c3d9959.chunk.js"
   },
   {
     "revision": "53380f89db2ea05c1641",

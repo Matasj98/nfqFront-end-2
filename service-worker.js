@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Matasj98/nfqFront-end-2/precache-manifest.130749eaf41f62f4726aa7dd7374340f.js"
+  "/Matasj98/nfqFront-end-2/precache-manifest.dbcee2be6f5ec8684a41fa0f813d37d7.js"
 );
 
 self.addEventListener('message', (event) => {
